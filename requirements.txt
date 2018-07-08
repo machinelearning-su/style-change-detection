@@ -1,0 +1,13 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+pandas
+tensorflow
+keras
+nltk
+jupyter
+beautifulsoup4
+feather-format
+textstat
+lightgbm
